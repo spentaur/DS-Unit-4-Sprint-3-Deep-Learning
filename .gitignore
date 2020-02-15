@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# models
+/module1-rnn-and-lstm/training_checkpoints
